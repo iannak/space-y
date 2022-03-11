@@ -38,7 +38,7 @@ This project was developed using the following technologies:
 Clone the project and access the folder.
 
 ```bash
-git clone https://github.com/birobirobiro/live-twitch-space-y.git
+git clone https://github.com/franzannakarolina/space-y.git
 
 cd live-twitch-space-y
 
